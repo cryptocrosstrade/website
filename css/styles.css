@@ -1,5 +1,5 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family: 'Space Grotesk', sans-serif;
     background-color: #121212;
     color: #fff;
     text-align: center;
@@ -7,6 +7,7 @@ body {
 
 h1, h2 {
     color: #fff;
+    font-family: 'Space Grotesk', sans-serif;
 }
 
 .logo {
@@ -21,6 +22,8 @@ h1, h2 {
     border-radius: 25px;
     transition: background-color 0.3s, color 0.3s;
     padding: 15px 25px;
+    background-color: #fff;
+    color: #343a40;
 }
 
 .list-group-item:hover {
