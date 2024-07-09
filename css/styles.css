@@ -22,8 +22,9 @@ h1, h2 {
     border-radius: 25px;
     transition: background-color 0.3s, color 0.3s;
     padding: 15px 25px;
-    background-color: #fff;
-    color: #343a40;
+    background-color: #f0b90b;
+    color: #121212;
+    font-weight: 700;
 }
 
 .list-group-item:hover {
@@ -38,7 +39,7 @@ h1, h2 {
 }
 
 .footer a {
-    color: #6c757d;
+    color: #f0b90b;
     text-decoration: none;
 }
 
